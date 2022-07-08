@@ -1,4 +1,4 @@
-module golee
+module github.com/xlalon/golee
 
 go 1.18
 
